@@ -11,5 +11,8 @@ Official source codes for TweedieMix: Improving Multi-Concept Fusion for Diffusi
    ![multiconcept2](./asset/fig_supp_2-min.jpg)
 
 ### Multi-Concept Video Generation Results
-
+#### Video Customization Comparison
+   ![video_comp](./asset/forgit_video.gif)
+#### More Videos
+   
 ### Code is coming soon!
